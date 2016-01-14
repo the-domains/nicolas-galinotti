@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T12:04:32.536Z'
-dateModified: '2015-12-23T18:32:47.636Z'
+datePublished: '2016-01-14T16:41:23.446Z'
+dateModified: '2016-01-14T16:41:20.022Z'
 title: LE PHARE - CCN HAUTE NORMANDIE
 author: []
 sourcePath: _posts/2015-12-22-le-phare-ccn-haute-normandie.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: le-phare-ccn-haute-normandie/index.html
-_type: Article
+_type: Blurb
 
 ---
 ### En collaboration avec [l'Atelier ][0][Anette Lenz][1]
