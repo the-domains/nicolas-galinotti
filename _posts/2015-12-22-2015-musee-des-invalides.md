@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: En collaboration avec Incandescence  Stèle digitale pour la commémoration des mort pour la france de 14-18
-datePublished: '2015-12-24T12:04:32.575Z'
-dateModified: '2015-12-23T18:33:42.108Z'
+datePublished: '2016-01-14T16:41:43.400Z'
+dateModified: '2016-01-14T16:41:39.798Z'
 title: 2015 Musée des Invalides
 author: []
 sourcePath: _posts/2015-12-22-2015-musee-des-invalides.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: 2015-musee-des-invalides/index.html
-_type: Article
+_type: Blurb
 
 ---
 ### Musée des Invalides
