@@ -4,7 +4,7 @@
         <description><![CDATA[Nicolas Galinotti - Digital Developer]]></description>
         <link>https://thegrid.ai/nicolas-galinotti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 16:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 16:42:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nicolas-galinotti/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SPACEDUCKS]]></title>
@@ -26,13 +26,6 @@
             <link>http://www.nicolasgalinotti.com/projects/</link>
             <guid isPermaLink="false">00d9af85-3b0a-49a3-8f00-f45dd7baf22c</guid>
             <pubDate>Wed, 23 Dec 2015 18:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[En collaboration avec l'Atelier Anette Lenz]]></title>
-            <description><![CDATA[<article><h1>En collaboration avec l'Atelier Anette Lenz</h1><p>Utilisation des briques de verre de la façade pour créer un écran géant basse résolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d018a9500faba98c097e9ea9d6c015b1a4311f1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nicolas-galinotti/le-phare-ccn-haute-normandie/index.html</link>
-            <guid isPermaLink="false">33e4a167-e9b4-4a86-9c98-50907fed4253</guid>
-            <pubDate>Thu, 24 Dec 2015 12:04:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
