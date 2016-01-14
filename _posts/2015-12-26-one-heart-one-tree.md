@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-14T16:40:37.584Z'
-dateModified: '2016-01-14T16:40:33.532Z'
+datePublished: '2016-01-14T16:44:08.826Z'
+dateModified: '2016-01-14T16:44:06.198Z'
 title: One Heart One Tree
 author: []
 sourcePath: _posts/2015-12-26-one-heart-one-tree.md
@@ -36,5 +36,5 @@ La Tour Eiffel se métamorphosera en forêt virtuelle de lumière du 29 novembre
 
 Chaque citoyen où qu'il soit dans le monde se verra donner la possibilité de créer un arbre virtuel, associé à son nom ou à un message positif, qui poussera sur la Tour Eiffel au rythme des battements de son cœur. Pour chaque arbre virtuel, un arbre réel sera planté dans un des sept programmes de reforestation que le projet compte sur les cinq continents, offrant ainsi un impact social et environnemental à long terme.
 
-En collaboraiton avec Naziah Mestatoui, Emissive, Ucaya.
+En collaboration avec Naziha Mestatoui, Emissive, Ucaya.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d59e5686-ed76-467b-a062-a1c843a35dc1.jpg)
