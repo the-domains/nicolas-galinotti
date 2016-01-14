@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-26T11:15:25.319Z'
-dateModified: '2015-12-26T11:15:12.482Z'
+datePublished: '2016-01-14T16:40:37.584Z'
+dateModified: '2016-01-14T16:40:33.532Z'
 title: One Heart One Tree
 author: []
+sourcePath: _posts/2015-12-26-one-heart-one-tree.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-one-heart-one-tree.md
-published: true
-url: one-heart-one-tree/index.html
-_type: Article
+_type: Blurb
 
 ---
 2015 - One Heart One Tree
